@@ -1,0 +1,14 @@
+{"SSI": {
+    "baseline": {
+        "kernel": "linear", 
+        "C": 0.25, 
+        "X_data": "split_sets/X_feature_selection_sets/SSI_baseline_selected_10.pkl", 
+        "y_data": "split_sets/y_baseline_train_SSI.pkl"}, 
+    "grouped": {
+        "solver": "saga",
+        "penalty": "l1", 
+        "C": 0.25,
+        "X_data": "split_sets/X_feature_selection_sets/SSI_grouped_selected_10.pkl", 
+        "y_data": "split_sets/y_grouped_train_SSI.pkl"}
+    }
+}

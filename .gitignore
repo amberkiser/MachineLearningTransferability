@@ -2,6 +2,13 @@
 .ipynb_checkpoints
 .idea/
 
+models/SSI_baseline_columns.pkl
+models/SSI_baseline_model.joblib
+models/SSI_baseline_scaler.joblib
+models/SSI_grouped_columns.pkl
+models/SSI_grouped_model.joblib
+models/SSI_grouped_scaler.joblib
+
 data/baseline_data.pkl
 data/external_base_columns.pkldata/external_grouped_columns.pkldata/grouped_data.pkl
 
@@ -11,8 +18,6 @@ data/split_sets/X_baseline_test_SSI.pkldata/split_sets/X_baseline_train_SSI.pkl
 data/split_sets/X_grouped_test_SSI.pkldata/split_sets/X_grouped_train_SSI.pkldata/split_sets/y_baseline_test_SSI.pkldata/split_sets/y_baseline_train_SSI.pkldata/split_sets/y_grouped_test_SSI.pkldata/split_sets/y_grouped_train_SSI.pkl
 
 data/split_sets/X_feature_selection_sets/SSI_baseline_selected_5.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_10.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_25.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_50.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_100.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_500.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_1000.pkldata/split_sets/X_feature_selection_sets/SSI_baseline_selected_5000.pkldata/split_sets/X_feature_selection_sets/SSI_grouped_selected_5.pkldata/split_sets/X_feature_selection_sets/SSI_grouped_selected_10.pkldata/split_sets/X_feature_selection_sets/SSI_grouped_selected_25.pkldata/split_sets/X_feature_selection_sets/SSI_grouped_selected_50.pkldata/split_sets/X_feature_selection_sets/SSI_grouped_selected_100.pkldata/split_sets/X_feature_selection_sets/SSI_grouped_selected_500.pkl
-
-models/SSI_baseline_columns.pklmodels/SSI_baseline_model.joblibmodels/SSI_baseline_scaler.joblibmodels/SSI_grouped_columns.pklmodels/SSI_grouped_model.joblibmodels/SSI_grouped_scaler.joblib
 
 results/validation/internal/SSI_baseline_y_vals.csvresults/validation/internal/SSI_grouped_y_vals.csv
 results/validation/external/SSI_baseline_y_vals.csvresults/validation/external/SSI_grouped_y_vals.csv
