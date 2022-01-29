@@ -1,0 +1,3 @@
+This is where raw validation results would be stored, including true and predicted y values.
+
+The data cannot be shared publicly as it contains protected health information (PHI).
