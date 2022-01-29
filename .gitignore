@@ -39,6 +39,11 @@ data/split_sets/X_feature_selection_sets/SSI_grouped_selected_25.pkl
 data/split_sets/X_feature_selection_sets/SSI_grouped_selected_5.pkl
 data/split_sets/X_feature_selection_sets/SSI_grouped_selected_50.pkl
 data/split_sets/X_feature_selection_sets/SSI_grouped_selected_500.pkl
+
+results/validation/external/SSI_baseline_y_vals.csv
+results/validation/external/SSI_grouped_y_vals.csv
+results/validation/internal/SSI_baseline_y_vals.csv
+results/validation/internal/SSI_grouped_y_vals.csv
     
 # Byte-compiled / optimized / DLL files
 __pycache__/
