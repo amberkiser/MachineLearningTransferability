@@ -1,0 +1,11 @@
+All combinations of grouped and granular
+
+Meds		Labs		Dx
+Grouped		Baseline		Baseline		- Combination 1
+Baseline		Grouped		Baseline		- Combination 2
+Baseline		Baseline		Grouped		- Combination 3
+
+
+
+
+
